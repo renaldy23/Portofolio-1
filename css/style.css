@@ -195,7 +195,7 @@ img{
 .home__img{
     width: 250px;
     height: 250px;
-    margin-left: var(--mb-4);
+    margin-left: var(--mb-5);
 }
 
 .home__title{
